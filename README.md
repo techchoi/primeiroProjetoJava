@@ -1,2 +1,4 @@
-# primeiroProjetoJava
-Primeiro projeto em java feito através na ferrmenta IntelliJ 
+# primeiro Projeto em Java
+Primeiro projeto em java feito através na ferramenta IntelliJ 
+
+
